@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "capturedAt": "2026-06-13T22:24:52.524Z",
+  "runId": "tlapart-20260613222452",
+  "status": "ok",
+  "next_expected_run_at": "2026-06-14T23:24:52.524Z",
+  "stats": {
+    "participant_count": 203,
+    "portfolios_captured": 203,
+    "members_with_errors": 0,
+    "lock_holders": 202,
+    "bribe_providers": 1,
+    "lock_complete": true,
+    "bribe_source_ok": true
+  }
+}
