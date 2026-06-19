@@ -1,43 +1,16 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-18T02:00:46.476Z",
+  "capturedAt": "2026-06-19T02:00:59.903Z",
   "epoch": {
     "number": 190,
     "starts_at": "2026-06-15T00:00:00.000Z",
     "ends_at": "2026-06-22T00:00:00.000Z",
-    "progress_pct": 44.055303571428574
+    "progress_pct": 58.34323792989417
   },
   "participant_count": 203,
   "participants": [
     {
-      "address": "terra1g6ykcx9xzyljgj2xnlll4deftjenvv365c43cp",
-      "name": "ChronoAnastasisTS",
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 9,
-      "bribe_count": 0
-    },
-    {
-      "address": "terra1madnhysnr6amat5qpnu5qdfsq8j36r4v9hsnpg",
-      "name": null,
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 1,
-      "bribe_count": 0
-    },
-    {
-      "address": "terra1nuyy6jesef4vqe4f44wntctkelsymye7le40y6",
-      "name": null,
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 1,
-      "bribe_count": 0
-    },
-    {
-      "address": "terra14fwtmfhqu2rgyhqf99ndquzsw93027uthep5fc",
+      "address": "terra14eajsez3w8qweedjnfc429tfmsezk3439u0umm",
       "name": null,
       "sources": [
         "tla_lock"
@@ -55,7 +28,25 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1samy8498em77dulzl36gr070xkcyuk97nc5que",
+      "address": "terra1g6ykcx9xzyljgj2xnlll4deftjenvv365c43cp",
+      "name": "ChronoAnastasisTS",
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 9,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra14fwtmfhqu2rgyhqf99ndquzsw93027uthep5fc",
+      "name": null,
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 1,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra1nuyy6jesef4vqe4f44wntctkelsymye7le40y6",
       "name": null,
       "sources": [
         "tla_lock"
@@ -82,6 +73,15 @@
       "bribe_count": 0
     },
     {
+      "address": "terra1samy8498em77dulzl36gr070xkcyuk97nc5que",
+      "name": null,
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 1,
+      "bribe_count": 0
+    },
+    {
       "address": "terra13da2cgw68gx3wl4xq7spkrfveg4eqk5mz4znlk",
       "name": null,
       "sources": [
@@ -91,7 +91,7 @@
       "bribe_count": 0
     },
     {
-      "address": "terra14n4ytc9j7vxke0chcxt7ycyngmq6crmcs0zua9",
+      "address": "terra1smtdazt63vul9xjqyxh8k7gy2rcac60t6lu9ja",
       "name": null,
       "sources": [
         "tla_lock"
@@ -100,7 +100,7 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1smtdazt63vul9xjqyxh8k7gy2rcac60t6lu9ja",
+      "address": "terra14n4ytc9j7vxke0chcxt7ycyngmq6crmcs0zua9",
       "name": null,
       "sources": [
         "tla_lock"
@@ -145,15 +145,6 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1q0q3gw737l3xqzpeewkc3t42y7pddg40tvuktr",
-      "name": "ROVE_Intern",
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 3,
-      "bribe_count": 0
-    },
-    {
       "address": "terra1tqtwcvr6tln7grf3ywxxxzx436spp7dsjguvxl",
       "name": null,
       "sources": [
@@ -163,8 +154,8 @@
       "bribe_count": 0
     },
     {
-      "address": "terra14p3mc04s7jcaxvvetlzehvhx9gdx6w4nm3zzw3",
-      "name": null,
+      "address": "terra1q0q3gw737l3xqzpeewkc3t42y7pddg40tvuktr",
+      "name": "ROVE_Intern",
       "sources": [
         "tla_lock"
       ],
@@ -173,6 +164,15 @@
     },
     {
       "address": "terra13n7are9cagecn90rdqwddzkp5wjdz4z8axajl7",
+      "name": null,
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 3,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra14p3mc04s7jcaxvvetlzehvhx9gdx6w4nm3zzw3",
       "name": null,
       "sources": [
         "tla_lock"
@@ -199,21 +199,21 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1rnwr9zjgf6204lyk37w0l6hhtaptke5m2cfpmf",
-      "name": "Rebel_Defi",
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 2,
-      "bribe_count": 0
-    },
-    {
       "address": "terra1ksk66lcvzwaanc47nvn3athj4yzcpay8z8ru04",
       "name": "LionDAO",
       "sources": [
         "tla_lock"
       ],
       "lock_count": 6,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra1rnwr9zjgf6204lyk37w0l6hhtaptke5m2cfpmf",
+      "name": "Rebel_Defi",
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 2,
       "bribe_count": 0
     },
     {
@@ -379,21 +379,21 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1k6424kpxl2ax6c58lutrz2sdkllyuq9dafq8f8",
-      "name": "Nick74",
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 2,
-      "bribe_count": 0
-    },
-    {
       "address": "terra1nhyln00gydt7zkv79gf8s0nywxpftg9cjz8t8s",
       "name": null,
       "sources": [
         "tla_lock"
       ],
       "lock_count": 1,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra1k6424kpxl2ax6c58lutrz2sdkllyuq9dafq8f8",
+      "name": "Nick74",
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 2,
       "bribe_count": 0
     },
     {
@@ -442,8 +442,8 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1w2vmuy5exxl7guxlypyz06cwm4cvpua2qall66",
-      "name": "Prexcarter",
+      "address": "terra15du229lqcxkn939pmjgklqunftf604q4wz87kt5awj6reghec5jqs0w0kj",
+      "name": null,
       "sources": [
         "tla_lock"
       ],
@@ -469,12 +469,12 @@
       "bribe_count": 0
     },
     {
-      "address": "terra14gvc6zysjwcxthan290sjhddk365tdkzzn7a53",
-      "name": "OG_C",
+      "address": "terra1mw650edddjqsz7mwmga0qm688j0wx9mdmu4n0w",
+      "name": null,
       "sources": [
         "tla_lock"
       ],
-      "lock_count": 7,
+      "lock_count": 3,
       "bribe_count": 0
     },
     {
@@ -496,25 +496,16 @@
       "bribe_count": 0
     },
     {
+      "address": "terra14gvc6zysjwcxthan290sjhddk365tdkzzn7a53",
+      "name": "OG_C",
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 7,
+      "bribe_count": 0
+    },
+    {
       "address": "terra13mypj4s89p56wcq5a3s2tch5kuw7w3945973pw",
-      "name": null,
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 3,
-      "bribe_count": 0
-    },
-    {
-      "address": "terra1mw650edddjqsz7mwmga0qm688j0wx9mdmu4n0w",
-      "name": null,
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 3,
-      "bribe_count": 0
-    },
-    {
-      "address": "terra1gl8pr2xghfetskkd60ev6sy79mnlylmcdf8ppe",
       "name": null,
       "sources": [
         "tla_lock"
@@ -525,6 +516,15 @@
     {
       "address": "terra15g4l56kwce6r2whmgdeknwdjwx0jttdxrx7jz5",
       "name": "pleasedonttouchmybirdie",
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 3,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra1gl8pr2xghfetskkd60ev6sy79mnlylmcdf8ppe",
+      "name": null,
       "sources": [
         "tla_lock"
       ],
@@ -604,21 +604,21 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1ujhc3qc0q2ej0mrjlgypdk46gsw2xr8glv3g9q",
-      "name": null,
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 1,
-      "bribe_count": 0
-    },
-    {
       "address": "terra18wlh3qlvrvyp9dfwmwcdj43rpr8cpkmkjnqhcr",
       "name": "iLUNAnati",
       "sources": [
         "tla_lock"
       ],
       "lock_count": 2,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra1ujhc3qc0q2ej0mrjlgypdk46gsw2xr8glv3g9q",
+      "name": null,
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 1,
       "bribe_count": 0
     },
     {
@@ -631,15 +631,6 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1f0p979gm6evwkhz8ahw0vxvgsjs3gtf4ff0hhn",
-      "name": null,
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 2,
-      "bribe_count": 0
-    },
-    {
       "address": "terra1wqfxpzm508ejuv5a20zv4xa4pqzz48k3guujhp",
       "name": "Novawood",
       "sources": [
@@ -649,7 +640,7 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1xgg9cf94ws2mawr6lyrdvmyxt48xkwgp8gvtsrcg2yktqvk8w2rqxflq06",
+      "address": "terra1f0p979gm6evwkhz8ahw0vxvgsjs3gtf4ff0hhn",
       "name": null,
       "sources": [
         "tla_lock"
@@ -673,6 +664,15 @@
         "tla_lock"
       ],
       "lock_count": 1,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra1xgg9cf94ws2mawr6lyrdvmyxt48xkwgp8gvtsrcg2yktqvk8w2rqxflq06",
+      "name": null,
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 2,
       "bribe_count": 0
     },
     {
@@ -730,7 +730,7 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1hksadlcnene48zx6teuwvhddgc22sme589aj3l",
+      "address": "terra1dfhtfjemtx7gxe6z2psqa3e497enu5hg55ww6y",
       "name": null,
       "sources": [
         "tla_lock"
@@ -748,7 +748,7 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1dfhtfjemtx7gxe6z2psqa3e497enu5hg55ww6y",
+      "address": "terra1usghhperaltd00gfm4ypyqgmtr38ea8jww04hj",
       "name": null,
       "sources": [
         "tla_lock"
@@ -757,7 +757,7 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1usghhperaltd00gfm4ypyqgmtr38ea8jww04hj",
+      "address": "terra1hksadlcnene48zx6teuwvhddgc22sme589aj3l",
       "name": null,
       "sources": [
         "tla_lock"
@@ -802,15 +802,6 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1g655nxkfvgaayk0yw99zykgeezvyd2w5n4khyr",
-      "name": null,
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 2,
-      "bribe_count": 0
-    },
-    {
       "address": "terra1qss6vvfwaxs8wy9cc4jn2q56q0leevjv5tjakt",
       "name": null,
       "sources": [
@@ -838,8 +829,8 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1eqaq2kuntl3jh4xd5sjxcf9ncpuk2plml0dgsg",
-      "name": "Ecclesia_Lunatic",
+      "address": "terra1g655nxkfvgaayk0yw99zykgeezvyd2w5n4khyr",
+      "name": null,
       "sources": [
         "tla_lock"
       ],
@@ -847,17 +838,8 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1q58m42lpv95cthc0zatresjwe4580mul9m9r87",
-      "name": null,
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 1,
-      "bribe_count": 0
-    },
-    {
-      "address": "terra1kkvmg6l545fjl67f44hx9ytyjurx4s2r9z8att",
-      "name": null,
+      "address": "terra1eqaq2kuntl3jh4xd5sjxcf9ncpuk2plml0dgsg",
+      "name": "Ecclesia_Lunatic",
       "sources": [
         "tla_lock"
       ],
@@ -871,6 +853,24 @@
         "tla_lock"
       ],
       "lock_count": 5,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra1kkvmg6l545fjl67f44hx9ytyjurx4s2r9z8att",
+      "name": null,
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 2,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra1q58m42lpv95cthc0zatresjwe4580mul9m9r87",
+      "name": null,
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 1,
       "bribe_count": 0
     },
     {
@@ -946,21 +946,21 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1c2x8tpner85lycdssd6nc6wd66rjld6qecs8mz",
-      "name": null,
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 3,
-      "bribe_count": 0
-    },
-    {
       "address": "terra1mqmqc7vmjpslgeju4m0pwwt94gutllnur775kv",
       "name": null,
       "sources": [
         "tla_lock"
       ],
       "lock_count": 1,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra1c2x8tpner85lycdssd6nc6wd66rjld6qecs8mz",
+      "name": null,
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 3,
       "bribe_count": 0
     },
     {
@@ -1045,7 +1045,7 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1kxr847juw8j03dl58r6y76vkf53mtp3vv7xtmd",
+      "address": "terra1wtqmtelhe3n82ezxzahuytlwfvfrefe6ecsx24",
       "name": null,
       "sources": [
         "tla_lock"
@@ -1054,7 +1054,7 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1wtqmtelhe3n82ezxzahuytlwfvfrefe6ecsx24",
+      "address": "terra1kxr847juw8j03dl58r6y76vkf53mtp3vv7xtmd",
       "name": null,
       "sources": [
         "tla_lock"
@@ -1198,15 +1198,6 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1awh0enqpfxstmkawqnhstr5n69p9qaacnfu9fd",
-      "name": null,
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 1,
-      "bribe_count": 0
-    },
-    {
       "address": "terra1dwv0c7ejtljjk09kda4azrypyaaudc5pkywca8",
       "name": null,
       "sources": [
@@ -1217,6 +1208,15 @@
     },
     {
       "address": "terra162kt3ja8nwh7kr2ed67y054g42wqfs8ts7y4ee",
+      "name": null,
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 1,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra1awh0enqpfxstmkawqnhstr5n69p9qaacnfu9fd",
       "name": null,
       "sources": [
         "tla_lock"
@@ -1288,21 +1288,21 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1pqxfwenlg3pjsl8zfsyu5lrln7x2cgh5w6fpkj",
-      "name": "RoboStaking",
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 3,
-      "bribe_count": 0
-    },
-    {
       "address": "terra1xzvf5nyyz6zdvcmcxgrtu6lftms74h3qng5kns",
       "name": null,
       "sources": [
         "tla_lock"
       ],
       "lock_count": 2,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra1pqxfwenlg3pjsl8zfsyu5lrln7x2cgh5w6fpkj",
+      "name": "RoboStaking",
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 3,
       "bribe_count": 0
     },
     {
@@ -1369,21 +1369,21 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1zstf4e0au48fy56kkztsfea2m4fl4nd040etn8",
-      "name": "Dusky",
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 5,
-      "bribe_count": 0
-    },
-    {
       "address": "terra1h878jzyyyf56l7tj6clw6fq5nfjny8j6yct5jq",
       "name": null,
       "sources": [
         "tla_lock"
       ],
       "lock_count": 2,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra1zstf4e0au48fy56kkztsfea2m4fl4nd040etn8",
+      "name": "Dusky",
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 5,
       "bribe_count": 0
     },
     {
@@ -1405,7 +1405,7 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1zgllgkux94tdqpuufn5cedmrk98qtdcmwhy7ts",
+      "address": "terra18xcx0vq9szk4kczgk289g3l9t9yt70t4ygkg9z",
       "name": null,
       "sources": [
         "tla_lock"
@@ -1414,7 +1414,7 @@
       "bribe_count": 0
     },
     {
-      "address": "terra18xcx0vq9szk4kczgk289g3l9t9yt70t4ygkg9z",
+      "address": "terra1zgllgkux94tdqpuufn5cedmrk98qtdcmwhy7ts",
       "name": null,
       "sources": [
         "tla_lock"
@@ -1711,21 +1711,21 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1z0nvmv57cqax4s6lssft9yhfn8ksxcf7dm7mq8",
-      "name": "singda",
-      "sources": [
-        "tla_lock"
-      ],
-      "lock_count": 1,
-      "bribe_count": 0
-    },
-    {
       "address": "terra18qrnsf3ezfpupp2q3kzvdcdes70zes0awn7vzs",
       "name": null,
       "sources": [
         "tla_lock"
       ],
       "lock_count": 2,
+      "bribe_count": 0
+    },
+    {
+      "address": "terra1z0nvmv57cqax4s6lssft9yhfn8ksxcf7dm7mq8",
+      "name": "singda",
+      "sources": [
+        "tla_lock"
+      ],
+      "lock_count": 1,
       "bribe_count": 0
     },
     {
@@ -1765,7 +1765,7 @@
       "bribe_count": 0
     },
     {
-      "address": "terra1rppeahhmtvy4fs9xr9zkjrf4xs9ak4ygy62slq",
+      "address": "terra14aqddykks6c8j0lfkk00n2xe4mf65dsssncutc",
       "name": null,
       "sources": [
         "tla_lock"
@@ -1774,7 +1774,7 @@
       "bribe_count": 0
     },
     {
-      "address": "terra14aqddykks6c8j0lfkk00n2xe4mf65dsssncutc",
+      "address": "terra1rppeahhmtvy4fs9xr9zkjrf4xs9ak4ygy62slq",
       "name": null,
       "sources": [
         "tla_lock"
