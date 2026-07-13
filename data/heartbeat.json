@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-12T02:00:43.552Z",
-  "runId": "tlapart-20260712020043",
+  "capturedAt": "2026-07-13T02:00:40.374Z",
+  "runId": "tlapart-20260713020040",
   "status": "ok",
-  "next_expected_run_at": "2026-07-13T03:00:43.552Z",
+  "next_expected_run_at": "2026-07-14T03:00:40.374Z",
   "stats": {
     "participant_count": 204,
     "portfolios_captured": 204,
